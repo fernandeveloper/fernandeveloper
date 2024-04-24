@@ -10,8 +10,8 @@ Contacto:
 
 Correo electrónico: fernandeveloper2024@gmail.com
 TikTok: @fernandodev
-YouTube: CódigoFlutter4482
-GitHub:
+YouTube: https://www.youtube.com/@codigoflutter4482
+GitHub: https://github.com/codigoalphacol?tab=repositories
 
 Perfil: codigoalphacol
 Aquí encontrarás el código público de las aplicaciones que he creado con Flutter.
