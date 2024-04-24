@@ -3,8 +3,6 @@
 - 🌱 Me gusta estar en constante aprendizaje y abierto a nuevas tecnologias...
 - 💞️ Me gusta la programacion en Fluter, por su rendimiento, facilidad, he integracion a diferentes plataformas, Android, iOS, Web, Linux, Windows...
 
-<!---
-
 Fernando Osorio
 Ingeniero de Sistemas | Desarrollador de Aplicaciones Móviles
 ¡Hola! Soy Fernando, un apasionado ingeniero de sistemas de Bucaramanga, Colombia. Me especializo en el desarrollo de aplicaciones móviles utilizando Flutter y Dart, y tengo experiencia en integrar estas aplicaciones con diversas bases de datos como MySql y MongoDb. Además, he trabajado en la creación de servicios backend utilizando tecnologías como Node.js, Laravel y Spring Boot con las cuales he integrado Flutter.
@@ -24,4 +22,3 @@ Tablas de multiplicar buho - Juego de Tablas de Multiplicar: Una aplicación edu
 Numerología Tántrica: Una aplicación que ofrece herramientas de numerología tántrica para aquellos interesados en explorar este fascinante campo. Disponible en Google Play Store.
 ¡Estoy emocionado de colaborar y compartir conocimientos en el mundo del desarrollo de aplicaciones móviles!
 
---->
