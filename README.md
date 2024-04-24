@@ -1,10 +1,27 @@
-- 👋 Hi, I’m @fernandeveloper
-- 👀 I’m Developer Flutter ...
-- 🌱 I’m learning Go...
-- 💞️ I’m looking to collaborate on Flutter...
-- 📫 How to reach me ...
+- 👋 Hola, Soy Fernando
+- 👀 Soy Developer Flutter ...
+- 🌱 Me gusta estar en constante aprendizaje y abierto a nuevas tecnologias...
+- 💞️ Me gusta la programacion en Fluter, por su rendimiento, facilidad, he integracion a diferentes plataformas, Android, iOS, Web, Linux, Windows...
 
 <!---
-fernandeveloper/fernandeveloper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+
+Fernando Osorio
+Ingeniero de Sistemas | Desarrollador de Aplicaciones Móviles
+¡Hola! Soy Fernando, un apasionado ingeniero de sistemas de Bucaramanga, Colombia. Me especializo en el desarrollo de aplicaciones móviles utilizando Flutter y Dart, y tengo experiencia en integrar estas aplicaciones con diversas bases de datos como MySql y MongoDb. Además, he trabajado en la creación de servicios backend utilizando tecnologías como Node.js, Laravel y Spring Boot con las cuales he integrado Flutter.
+
+Contacto:
+
+Correo electrónico: fernandeveloper2024@gmail.com
+TikTok: @fernandodev
+YouTube: CódigoFlutter4482
+GitHub:
+
+Perfil: codigoalphacol
+Aquí encontrarás el código público de las aplicaciones que he creado con Flutter.
+Aplicaciones Destacadas:
+
+Tablas de multiplicar buho - Juego de Tablas de Multiplicar: Una aplicación educativa diseñada para ayudar a los niños a aprender las tablas de multiplicar de manera divertida y efectiva. Disponible en Google Play Store.
+Numerología Tántrica: Una aplicación que ofrece herramientas de numerología tántrica para aquellos interesados en explorar este fascinante campo. Disponible en Google Play Store.
+¡Estoy emocionado de colaborar y compartir conocimientos en el mundo del desarrollo de aplicaciones móviles!
+
 --->
